@@ -1,0 +1,10 @@
+环境：python3, nodejs 10.0
+路径：traffic_advance/traffic_app/ （要求traffic_app和data目录在同一层）
+
+前端：traffic_client：
+npm i
+npm run serve
+
+后端：traffic_server:
+pip install django
+python manage.py runserver
